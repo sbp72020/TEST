@@ -1,0 +1,2 @@
+TEST=`$shostname`
+echo $TEST
